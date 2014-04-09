@@ -1,4 +1,4 @@
-jquery-fbDialog
+jQuery Facebook Dialog v1.5
 ===============
 
 Simple jQuery plug-in for creating Facebook Dialogs using Facebook JS SDK
