@@ -24,9 +24,9 @@
  * Sample HTML:
  *
  * <a class="btn feed-post-dialog"
- *    data-method="something-incorrect" <!-- replaced by method paramater because it's wrong -->
+ *    data-method="something-incorrect" <!-- replaced with i.e. "feed", "send", etc. -->
  *    data-link="http://google.com"
- *    data-picture="https://reward-zone.nerderylabs.com/assets/images/logo.png?nocache=1350490492"
+ *    data-picture="http://viralmedia.no/wp-content/uploads/2014/01/ViralLogo.png"
  *    data-name="This is the name parameter"
  *    data-caption="This is the caption parameter"
  *    data-description="This is the description parameter">Feed Post Dialog</a>
