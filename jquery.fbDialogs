@@ -34,7 +34,7 @@
 (function( $ ){
 
     /**
-     * Handles fb dialog links by taking their data attributes as fb parameters
+     * Handles Facebook Dialog links by taking their data attributes as fb parameters
      *
      * @param selector string   Optional (or null / false) The selector on which to add the binding
      * @param callback function Optional callback function (takes one parameter)
